@@ -1,16 +1,18 @@
 [
   {
     "id": "11",
-    "name": "BOOK -01",
+    "name": "Habluder Jonno Programming",
+    "author": "Jhankar Mahbub",
     "price": 50,
-    "stock": 20,
+    "stock": 10,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/00ea58560_112222.jpg",
     "quantity": 0
   },
   {
     "id": "12",
-    "name": "BOOK -02",
+    "name": "Bolod 2 BOSS Programming",
+    "author": "Jhankar Mahbub",
     "price": 50,
     "stock": 20,
     "ratings": 4,
@@ -19,16 +21,18 @@
   },
   {
     "id": "13",
-    "name": "BOOK -03",
+    "name": "Programming book-03",
+    "author": "Jhankar Mahbub",
     "price": 38,
-    "stock": 20,
+    "stock": 25,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/f0836d0b7_158227.jpg",
     "quantity": 0
   },
   {
     "id": "14",
-    "name": "BOOK -04",
+    "name": "Reacharge Your Down Battery",
+    "author": "Jhankar Mahbub",
     "price": 40,
     "stock": 20,
     "ratings": 4,
@@ -38,33 +42,37 @@
   {
     "id": "15",
     "name": "BOOK -05",
+    "author": "Jhankar Mahbub",
     "price": 47,
-    "stock": 20,
+    "stock": 30,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/38e267230_212414.jpg",
     "quantity": 0
   },
   {
     "id": "16",
-    "name": "BOOK -06",
+    "name": "Life Paracitamol",
+    "author": "Jhankar Mahbub",
     "price": 59,
-    "stock": 20,
+    "stock": 45,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/5009d71f2_177431.jpg",
     "quantity": 0
   },
   {
     "id": "17",
-    "name": "BOOK -07",
+    "name": "Java Programming",
+    "author": "A N M Bajlur Rahman",
     "price": 30,
-    "stock": 20,
+    "stock": 50,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Java_Programming-A_N_M_Bazlur_Rahman-5132d-129165.jpg",
     "quantity": 0
   },
   {
     "id": "18",
-    "name": "BOOK -07",
+    "name": "Programming Problem Solving",
+    "author": "Tamim Sahriar Subin",
     "price": 52.3,
     "stock": 20,
     "ratings": 4,
@@ -73,36 +81,40 @@
   },
   {
     "id": "19",
-    "name": "BOOK -09",
+    "name": "Full Stack Development",
+    "author": "HM Nayem",
     "price": 57,
+    "stock": 50,
+    "ratings": 4,
+    "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/59cd484aa_211527.jpg",
+    "quantity": 0
+  },
+  {
+    "id": "20",
+    "name": "Problem Solving & Mindset",
+    "author": "HM Nayem",
+    "price": 60,
     "stock": 20,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Programming_er_Addotanta-H_M_Nayem-586bc-228332.jpg",
     "quantity": 0
   },
   {
-    "id": "20",
-    "name": "BOOK -10",
-    "price": 60,
-    "stock": 20,
-    "ratings": 4,
-    "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/130X186/59cd484aa_211527.jpg",
-    "quantity": 0
-  },
-  {
     "id": "21",
-    "name": "BOOK -11",
+    "name": "Osho's Book",
+    "author": "Osho",
     "price": 60,
-    "stock": 20,
+    "stock": 55,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/9551104ff8f4_129547.jpg",
     "quantity": 0
   },
   {
     "id": "22",
-    "name": "BOOK -12",
+    "name": "Ami Manush",
+    "author": "Sordar Fajlul Karim",
     "price": 60,
-    "stock": 20,
+    "stock": 10,
     "ratings": 4,
     "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/ee4539fc7_535.jpg",
     "quantity": 0
