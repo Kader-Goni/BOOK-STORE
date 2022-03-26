@@ -13,7 +13,7 @@ const Product = ({product, producAddtoCart}) => {
                 <Card.Body className='text-start'>
                     <h4 className='text-primary'>{name}</h4>
                     <h5 className=''>Price: ${price}</h5>  
-                    <small className='fw-bold'>Author: <span className=''>{author}</span></small>
+                    <small className='fw-bold'>Author: <span className='text-success'>{author}</span></small>
                     <div className="mt-auto">
                         <small>In-Stock: {stock} copies only </small>
                     </div>
