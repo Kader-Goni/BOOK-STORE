@@ -2,6 +2,6 @@
 
 ## Live Netlify link..
 
-Link: https://book-store-efd235.netlify.app/
+Link: 
 
 ### Book Store `react` e-commerse project
